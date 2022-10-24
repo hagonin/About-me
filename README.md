@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **css, js and reactjs**
 
-- ⚡ Fun fact **I'm love animals and go hiking with my dog**
+- ⚡ Fun fact **I'm love animals and going hiking with my dog**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
