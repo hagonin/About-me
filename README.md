@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ha</h1>
 <h3 align="center">A passionate frontend developer from Vietnam but living in the UK</h3>
 
-- 🔭 I’m currently working on [Food-ording-reactjs](https://github.com/hagonin/food-order-reactjs-json-server)
+- 🔭 I’m currently working on [Food-ordering-reactjs](https://github.com/hagonin/food-order-reactjs-json-server)
 
 - 🌱 I’m currently learning **Nodejs**
 
